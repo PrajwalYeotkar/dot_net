@@ -7,6 +7,6 @@ classs new{
 
         Console.Writeline();
         String str = Convert.ToBase64String(B);
-        Console.WriteLine("BAse 64 string is :{0}",str);
+        Console.WriteLine("Base 64 string is :{0}",str);
     }
 }
