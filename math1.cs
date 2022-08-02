@@ -29,28 +29,28 @@ namespace math1{
         public static void Add(){
             int p=10;
             int q=20;
-            Console.WriteLine("Addition :"= (p+q));
+            Console.WriteLine("Addition :"+ (p+q));
         }
     } 
     class Subtraction{
         public static void sub(){
             int p=10;
             int q=20;
-            Console.WriteLine("Subtraction :"= (p-q));
+            Console.WriteLine("Subtraction :"+ (p-q));
         }
     }
     class Multiplication{
         public static void mul(){
             int p=10;
             int q=20;
-            Console.WriteLine("Multiplication:"= (p*q));
+            Console.WriteLine("Multiplication:"+ (p*q));
         }
     }
     class Division{
         public static void div(){
             int p=10;
             int q=20;
-            Console.WriteLine("Division :"= (p/q));
+            Console.WriteLine("Division :"+ (p/q));
         }
     }
 
