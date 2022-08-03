@@ -10,8 +10,6 @@ namespace stringbuilderpractice
             addWord.Append(",which works in taxation.");
             Console.WriteLine(addWord);
 
-
-            
         }
 
     }
