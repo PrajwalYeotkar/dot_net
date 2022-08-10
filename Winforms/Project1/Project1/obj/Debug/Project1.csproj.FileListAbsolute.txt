@@ -1,0 +1,11 @@
+C:\Users\prajwal.yeotkar\Documents\GitHub\new1\dot_net\Winforms\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\prajwal.yeotkar\Documents\GitHub\new1\dot_net\Winforms\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\prajwal.yeotkar\Documents\GitHub\new1\dot_net\Winforms\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\prajwal.yeotkar\Documents\GitHub\new1\dot_net\Winforms\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\prajwal.yeotkar\Documents\GitHub\new1\dot_net\Winforms\Project1\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\prajwal.yeotkar\Documents\GitHub\new1\dot_net\Winforms\Project1\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\prajwal.yeotkar\Documents\GitHub\new1\dot_net\Winforms\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\prajwal.yeotkar\Documents\GitHub\new1\dot_net\Winforms\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\prajwal.yeotkar\Documents\GitHub\new1\dot_net\Winforms\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\prajwal.yeotkar\Documents\GitHub\new1\dot_net\Winforms\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\prajwal.yeotkar\Documents\GitHub\new1\dot_net\Winforms\Project1\Project1\obj\Debug\Project1.pdb
