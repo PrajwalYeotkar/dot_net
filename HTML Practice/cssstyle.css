@@ -1,0 +1,9 @@
+body{
+    background-color: lightblue;
+}
+
+.large{color:blue;text-align: center;}
+
+table,th,td{
+    color :black;text-align: center;border: 2px solid;
+}
