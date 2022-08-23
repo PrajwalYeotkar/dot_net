@@ -2,9 +2,8 @@ import React,{Component} from "react"
 class OperatinSystem extends Component{
     constructor(props){
         super(props);
-        this.state= {'OS':'iOS'};
-        this.state={'Brand':'Apple'};
-        this.state={'Model':'Iphone14'};
+        
+        this.state={'Brand':'Samsung','Model':'A12'};
     }
 
     render(){
