@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeService", "PrimeService\PrimeService.csproj", "{0571F42D-393C-4FC7-A36A-693A691DFAA2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PrimeService", "PrimeService", "{4E5B709F-A3F0-417B-B644-8756F2711830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeService.Tests", "PrimeService\PrimeService.Tests\PrimeService.Tests.csproj", "{7DCDDEDB-C4AF-49C1-98AC-98E10AE1222E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0571F42D-393C-4FC7-A36A-693A691DFAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0571F42D-393C-4FC7-A36A-693A691DFAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0571F42D-393C-4FC7-A36A-693A691DFAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0571F42D-393C-4FC7-A36A-693A691DFAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCDDEDB-C4AF-49C1-98AC-98E10AE1222E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCDDEDB-C4AF-49C1-98AC-98E10AE1222E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCDDEDB-C4AF-49C1-98AC-98E10AE1222E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCDDEDB-C4AF-49C1-98AC-98E10AE1222E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7DCDDEDB-C4AF-49C1-98AC-98E10AE1222E} = {4E5B709F-A3F0-417B-B644-8756F2711830}
+	EndGlobalSection
+EndGlobal

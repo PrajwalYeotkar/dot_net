@@ -1,0 +1,12 @@
+D:\Phase4\Live\unit-testing-using-nunit\PrimeService\bin\Debug\net6.0\PrimeService.deps.json
+D:\Phase4\Live\unit-testing-using-nunit\PrimeService\bin\Debug\net6.0\PrimeService.dll
+D:\Phase4\Live\unit-testing-using-nunit\PrimeService\bin\Debug\net6.0\PrimeService.pdb
+D:\Phase4\Live\unit-testing-using-nunit\PrimeService\obj\Debug\net6.0\PrimeService.csproj.AssemblyReference.cache
+D:\Phase4\Live\unit-testing-using-nunit\PrimeService\obj\Debug\net6.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase4\Live\unit-testing-using-nunit\PrimeService\obj\Debug\net6.0\PrimeService.AssemblyInfoInputs.cache
+D:\Phase4\Live\unit-testing-using-nunit\PrimeService\obj\Debug\net6.0\PrimeService.AssemblyInfo.cs
+D:\Phase4\Live\unit-testing-using-nunit\PrimeService\obj\Debug\net6.0\PrimeService.csproj.CoreCompileInputs.cache
+D:\Phase4\Live\unit-testing-using-nunit\PrimeService\obj\Debug\net6.0\PrimeService.dll
+D:\Phase4\Live\unit-testing-using-nunit\PrimeService\obj\Debug\net6.0\refint\PrimeService.dll
+D:\Phase4\Live\unit-testing-using-nunit\PrimeService\obj\Debug\net6.0\PrimeService.pdb
+D:\Phase4\Live\unit-testing-using-nunit\PrimeService\obj\Debug\net6.0\ref\PrimeService.dll

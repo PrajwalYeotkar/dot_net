@@ -1,0 +1,15 @@
+D:\Phase4\Live\PracticeExceptionandIgnore\PracticeExceptionandIgnore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Phase4\Live\PracticeExceptionandIgnore\PracticeExceptionandIgnore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Phase4\Live\PracticeExceptionandIgnore\PracticeExceptionandIgnore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Phase4\Live\PracticeExceptionandIgnore\PracticeExceptionandIgnore\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Phase4\Live\PracticeExceptionandIgnore\PracticeExceptionandIgnore\bin\Debug\PracticeExceptionandIgnore.dll
+D:\Phase4\Live\PracticeExceptionandIgnore\PracticeExceptionandIgnore\bin\Debug\PracticeExceptionandIgnore.pdb
+D:\Phase4\Live\PracticeExceptionandIgnore\PracticeExceptionandIgnore\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Phase4\Live\PracticeExceptionandIgnore\PracticeExceptionandIgnore\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Phase4\Live\PracticeExceptionandIgnore\PracticeExceptionandIgnore\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Phase4\Live\PracticeExceptionandIgnore\PracticeExceptionandIgnore\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Phase4\Live\PracticeExceptionandIgnore\PracticeExceptionandIgnore\obj\Debug\PracticeExceptionandIgnore.csproj.AssemblyReference.cache
+D:\Phase4\Live\PracticeExceptionandIgnore\PracticeExceptionandIgnore\obj\Debug\PracticeExceptionandIgnore.csproj.CoreCompileInputs.cache
+D:\Phase4\Live\PracticeExceptionandIgnore\PracticeExceptionandIgnore\obj\Debug\PracticeExceptionandIgnore.csproj.CopyComplete
+D:\Phase4\Live\PracticeExceptionandIgnore\PracticeExceptionandIgnore\obj\Debug\PracticeExceptionandIgnore.dll
+D:\Phase4\Live\PracticeExceptionandIgnore\PracticeExceptionandIgnore\obj\Debug\PracticeExceptionandIgnore.pdb
